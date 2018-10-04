@@ -8,7 +8,3 @@ function removeFromPlaylist(playlist, artistName) {
   playlist = delete playlist.artistName
   return playlist
 }
-
-var test = {'testname': 'title'}
-
-console.log(removeFromPlaylist(test, 'testname'))
