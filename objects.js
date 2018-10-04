@@ -9,6 +9,6 @@ function removeFromPlaylist(playlist, artistName) {
   return playlist
 }
 
-var test = {'testname': 'testtitle'}
+var test = {'testname': 'title'}
 
 console.log(removeFromPlaylist(test, 'testname'))
