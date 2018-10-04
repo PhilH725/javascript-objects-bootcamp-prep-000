@@ -12,4 +12,3 @@ function removeFromPlaylist(playlist, artistName) {
 var test = {'testname': 'title', 'phil':'song'}
 
 console.log(removeFromPlaylist(test, 'testname'))
-removeFromPlaylist(test, 'testname')
