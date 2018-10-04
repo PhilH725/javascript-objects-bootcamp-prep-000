@@ -1,1 +1,1 @@
-var meals = { breakfast: "oatmeal" };
+var playlist = {'artist name': []};
